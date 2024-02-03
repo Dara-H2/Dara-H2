@@ -33,6 +33,6 @@
 
 
 <br>
-<code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 | JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm | Java | SpringBoot |
 |--|--|--|--|--|--|--|--|--|--|--|--|
