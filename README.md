@@ -8,7 +8,7 @@
 
 <div>
  <div>
-  <img src="./assets/firstcharacter" align="left">
+  <img src="assets/firstcharacter.png" align="left">
   <p align="right">
 
    &nbsp;
