@@ -13,17 +13,19 @@
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Old Cat**
+   &nbsp;&#10022; Call me Dara, or something cooler you might come up with.
 
-   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
+   &nbsp;&#10022; Age is just a number, but for the curious, I'm 21 orbits around the sun.
 
-   &nbsp;&#10022; Have good understanding of Web Development
+   &nbsp;&#10022; **Blockchain Developer** | Crafting the digital ledgers of tomorrow. Let's decentralize the world one block at a time.
 
-   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
+   &nbsp;&#10022; **Smart Contract Auditor** | The detective in the digital world. Ensuring smart contracts are bulletproof and trust is never questioned.
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
+   &nbsp;&#10022; **Game Developer** | Creating immersive worlds where stories unfold and adventures await. Join me in the quest to gamify the blockchain.
+
+   &nbsp;&#10022; **My quest**? To connect with minds alike, those who can help me weave my next game into the blockchain fabric or guide me to join a major gaming company to bring the games in my head to life.
    
-   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
+   &nbsp;&#10022; Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
    
   </p>
  </div>
