@@ -35,5 +35,5 @@
 
 
 <br><br><br><br><br><br>
-<h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
+
 <br>
