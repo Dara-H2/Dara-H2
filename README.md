@@ -1,5 +1,4 @@
 <h1>
-  <iframe src="https://giphy.com/embed/4ilFRqgbzbx4c" width="448" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a         
-  href="https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c">via GIPHY</a></p>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3MGl2MGtsZ3YzbHlpemxrdG9hdml4OW1hcDFhdmpxbTZsMnE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" /> 
 
 </h1>
