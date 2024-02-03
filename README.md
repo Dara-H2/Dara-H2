@@ -23,7 +23,7 @@
 
    &nbsp;&#10022; **Game Developer** | Creating immersive worlds where stories unfold and adventures await.
 
-   &nbsp;&#10022; **My quest**? To connect with minds alike, those who can help me weave my game into the blockchain. guide me to join major gaming company bring the games in my head to life.
+   &nbsp;&#10022; **My quest**? To connect with minds alike, help me weave my game into the blockchain. guide me to join major gaming company to bring the games in my head to life.
    
    &nbsp;&#10022; Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
    
