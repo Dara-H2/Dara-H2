@@ -30,6 +30,10 @@
   </p>
  </div>
 </div>
+# > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+| JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm | Java | SpringBoot |
+|--|--|--|--|--|--|--|--|--|--|--|--|
+
 
 <br><br><br><br><br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
