@@ -1,4 +1,4 @@
-<h1>
- <img width="720" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3MGl2MGtsZ3YzbHlpemxrdG9hdml4OW1hcDFhdmpxbTZsMnE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" /> 
-
-</h1>
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
+<div align="center">
+  <img width="720" height="auto" src=Blue events.png>
+</div>
