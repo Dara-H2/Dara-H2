@@ -32,8 +32,7 @@
 </div>
 
 
-
-
-
-
 <br>
+<code>⠀⠀💻⠀⠀Skills⠀⠀</code>
+| JavaScript | Css | Html | React | Express | MySQL | NodeJs | Electron | Git | Npm | Java | SpringBoot |
+|--|--|--|--|--|--|--|--|--|--|--|--|
