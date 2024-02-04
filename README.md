@@ -9,7 +9,7 @@
 <div>
  <div>
   <img width="320" height="320" src="assets/firstcharacter.png" align="left">
-    <p align="right">
+    <p align="right"/>
 
    &nbsp;
     
