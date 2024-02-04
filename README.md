@@ -30,12 +30,10 @@
     
    </div>
   </div>
-  </br>
-  <br><br><br><br>
- <div> 
+  <br><br><br><br><br><br>
+ 
+<div <code>⠀⠀💻⠀⠀Skills⠀⠀</code> />
 
-<code>⠀⠀💻⠀⠀Skills⠀⠀</code>
-</div>
 
 
 
