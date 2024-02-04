@@ -27,7 +27,7 @@
    
    &nbsp;&#10022; Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
    
-    </p>
+   </p>
    </div>
   </div>
  <div> 
