@@ -31,7 +31,7 @@
    </div>
   </div>
   #### Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
-  <br><br><br><br><br><br>
+  <br clear="all"/>
  
 <div> <code>⠀⠀💻⠀⠀Skills⠀⠀</code>  </div
 
