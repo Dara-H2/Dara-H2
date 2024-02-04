@@ -9,7 +9,7 @@
 <div>
  <div>
   <img width="320" height="320" src="assets/firstcharacter.png" align="left">
-  <p align="right">
+   <p align="right">
 
    &nbsp;
     
@@ -27,10 +27,10 @@
    
    &nbsp;&#10022; Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
    
-  </p>
- </div>
-</div>
-<div> 
+    </p>
+   </div>
+  </div>
+ <div> 
 </br>
 <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 </div>
