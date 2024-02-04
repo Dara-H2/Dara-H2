@@ -69,7 +69,7 @@
 
 <div>
  <div>
-  <img src="assets/sui.png" align="right">
+  <img width="320" height="320" src="assets/sui.png" align="right">
   <p align="left">
 
    &nbsp;
