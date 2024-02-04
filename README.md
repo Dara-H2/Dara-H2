@@ -36,7 +36,7 @@
  
 ## 💻 Skills
 
-> `<code>⠀⠀💻⠀⠀Skills⠀⠀</code>`
+> <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 
 | JavaScript | CSS  | HTML | React | Express | MySQL | Node.js | Electron | Git | npm | Java | Spring Boot |
 |------------|------|------|-------|---------|-------|---------|----------|-----|-----|------|-------------|
