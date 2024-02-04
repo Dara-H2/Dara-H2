@@ -38,9 +38,33 @@
 
 > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 
-| Solidity | Rust | Web3.js/ethers.js | Truffle/Hardhat | Chainlink | IPFS |
-|----------|------|-------------------|-----------------|-----------|------|
-| Unity | C# | Smart Contract Auditing Tools | Cryptography | Blockchain Architecture | Game Theory |
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th>Solidity</th>
+<th>Go</th>
+<th>Smart Contract Auditing</th>
+<th>Blockchain Architecture</th>
+<th>Decentralized Finance (DeFi)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ethereum Virtual Machine (EVM)</td>
+<td>Unity & Unreal Engine</td>
+<td>Version Control (Git)</td>
+<td>Cryptography</td>
+<td>APIs for Blockchain</td>
+</tr>
+<tr>
+<td colspan="5">Testing Frameworks (Mocha, Chai) | Project Management Tools (Jira, Trello)</td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 
 
