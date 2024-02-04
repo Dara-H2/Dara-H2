@@ -1,40 +1,23 @@
- <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Dara! 💠</h1>
+# 💠 ようこそ 👋, I'm Dara! 💠
 
-<div align="center">
-  <img  src=assets/header.png />
- 
-</div>
-<br>
+![Header Image](assets/header.png)
 
-<div>
- <div>
-  <img width="320" height="320" src="assets/firstcharacter.png" align="left">
-    <p align="right"/>
+![First Character](assets/firstcharacter.png)<!-- If you're looking to align this image, you might need to keep it simple as Markdown has limited support for image alignment. -->
 
-   &nbsp;
-   
-   &nbsp;&#10022; Call me Dara, or something cooler you might come up with.
+- Call me Dara, or something cooler you might come up with.
+- Age is just a number, but for the curious, I'm 21 orbits around the sun.
+- **Blockchain Developer** | Engineering smart contracts that power Dapps.
+- **Smart Contract Auditor** | Ensuring smart contracts are secure.
+- **Game Developer** | Creating immersive worlds where stories unfold.
+- **My quest**? To connect with minds alike. Guide me to bring the games in my head to life.
+- Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
 
-   &nbsp;&#10022; Age is just a number, but for the curious, I'm 21 orbits around the sun.
+## 💻 Skills
 
-   &nbsp;&#10022; **Blockchain Developer** | Engineering smart contracts that power Dapps.
+For the skills section and the problematic paragraph, using Markdown for structuring content can give a neat and organized look. If you want to emphasize a particular section or make it stand out, consider using blockquotes or bullet points for better visual separation and readability.
 
-   &nbsp;&#10022; **Smart Contract Auditor** | Ensuring smart contracts are secure.
-
-   &nbsp;&#10022; **Game Developer** | Creating immersive worlds where stories unfold.
-
-   &nbsp;&#10022; **My quest**? To connect with minds alike. guide me to bring the games in my head to life.
-   
-   
-   
-    
-   </div>
-  </div>
-  #### Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
-  <br><br><br><br><br><br>
- 
-<div> <code>⠀⠀💻⠀⠀Skills⠀⠀</code>  </div>
-</div>
+```markdown
+> Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
 
 
 
