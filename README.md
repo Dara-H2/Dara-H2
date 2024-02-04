@@ -44,7 +44,7 @@
 <thead>
 <tr>
 <th>Solidity</th>
-<th>Go</th>
+<th>C#</th>
 <th>Smart Contract Auditing</th>
 <th>Blockchain Architecture</th>
 <th>Decentralized Finance (DeFi)</th>
@@ -53,7 +53,7 @@
 <tbody>
 <tr>
 <td>Ethereum Virtual Machine (EVM)</td>
-<td>Unity & Unreal Engine</td>
+<td>Unity </td>
 <td>Version Control (Git)</td>
 <td>Cryptography</td>
 <td>APIs for Blockchain</td>
