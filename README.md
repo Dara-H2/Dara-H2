@@ -70,14 +70,20 @@
  <div>
   <img width="320" height="320" src="assets/sui.png" align="right">
   <p align="left">
+
    &nbsp;
+   
    &nbsp;
-   <span>&#10022; <strong>Feel free to reach me at</strong> &#10022;</span>
-   <a href="https://discord.com/users/656542704309764162" target="_blank">
-     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-   </a>
-   <br>&nbsp;&#10022; I usually use Discord go-to for real-time chats on blockchain innovation, game development, and more. Let's connect and create..
-   <br>&nbsp;&#10022; I'm on the lookout for opportunities to collaborate, learn, and share in the realms of technology and creativity. Your message could be the start of something great.
+    
+   &nbsp;&#10022; **Feel free to reach me at** &#10022;
+
+   &nbsp; 
+   <a href="https://discord.com/users/656542704309764162" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+   &nbsp;&#10022; I ussualy use Discord go-to for real-time chats on blockchain innovation, game development, and more. Let's connect and create..
+   
+   &nbsp;&#10022; I'm on the lookout for opportunities to collaborate, learn, and share in the realms of technology and creativity. Your message could be the start of something great.
+   
   </p>
  </div>
 </div>
