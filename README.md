@@ -56,7 +56,7 @@
 <td>Unity</td>
 <td>Chainlink</td>
 <td>Cryptography</td>
-<td>IPFS</td>
+<td>    IPFS</td>
 </tr>
 <tr>
 <td colspan="5">Testing Frameworks (Mocha, Chai) | Project Management Tools (Jira, Trello)</td>
