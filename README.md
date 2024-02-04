@@ -38,8 +38,9 @@
 
 > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 
-| JavaScript | CSS  | HTML | React | Express | MySQL | Node.js | Electron | Git | npm | Java | Spring Boot |
-|------------|------|------|-------|---------|-------|---------|----------|-----|-----|------|-------------|
+| Solidity | Rust | Web3.js/ethers.js | Truffle/Hardhat | Chainlink | IPFS |
+|----------|------|-------------------|-----------------|-----------|------|
+| Unity/Unreal Engine | C# | Smart Contract Auditing Tools | Cryptography | Blockchain Architecture | Game Theory |
 
 
 
