@@ -65,7 +65,7 @@
 </table>
 
 </div>
-<br><br><br><br><br>
+<br clear="all"/>
 
 <div>
  <div>
