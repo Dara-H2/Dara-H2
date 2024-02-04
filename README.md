@@ -52,10 +52,10 @@
 </thead>
 <tbody>
 <tr>
-<td>Ethereum Virtual Machine (EVM)</td>
+<td align="center">Ethereum Virtual Machine (EVM)</td>
 <td>Unity</td>
-<td>Chainlink</td>
-<td>Cryptography</td>
+<td align="center">Chainlink</td>
+<td align="center">Cryptography</td>
 <td align="center">IPFS</td>
 </tr>
 <tr>
