@@ -34,9 +34,12 @@
   
   <br clear="all"/>
  
-```markdown
-| JavaScript | CSS | HTML | React | Express | MySQL | Node.js | Electron | Git | npm | Java | Spring Boot |
-|------------|-----|------|-------|---------|-------|---------|----------|-----|-----|------|-------------|
+## 💻 Skills
+
+> `<code>⠀⠀💻⠀⠀Skills⠀⠀</code>`
+
+| JavaScript | CSS  | HTML | React | Express | MySQL | Node.js | Electron | Git | npm | Java | Spring Boot |
+|------------|------|------|-------|---------|-------|---------|----------|-----|-----|------|-------------|
 
 
 
