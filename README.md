@@ -33,7 +33,9 @@
   #### Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
   <br clear="all"/>
  
-<div> <code>⠀⠀💻⠀⠀Skills⠀⠀</code>  </div>
+```markdown
+| JavaScript | CSS | HTML | React | Express | MySQL | Node.js | Electron | Git | npm | Java | Spring Boot |
+|------------|-----|------|-------|---------|-------|---------|----------|-----|-----|------|-------------|
 
 
 
