@@ -17,19 +17,20 @@
 
    &nbsp;&#10022; Age is just a number, but for the curious, I'm 21 orbits around the sun.
 
-   &nbsp;&#10022; **Blockchain Developer** | Engineering smart contracts that power decentralized applications.
+   &nbsp;&#10022; **Blockchain Developer** | Engineering smart contracts that power Dapps.
 
    &nbsp;&#10022; **Smart Contract Auditor** | Ensuring smart contracts are secure.
 
-   &nbsp;&#10022; **Game Developer** | Creating immersive worlds where stories unfold and adventures await.
+   &nbsp;&#10022; **Game Developer** | Creating immersive worlds where stories unfold.
 
    &nbsp;&#10022; **My quest**? To connect with minds alike. guide me to bring the games in my head to life.
    
-   &nbsp;&#10022; Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
+   
    
     
    </div>
   </div>
+  #### Let's talk about the future of blockchain, the thrill of games, and the worlds within animes.
   <br><br><br><br><br><br>
  
 <div> <code>⠀⠀💻⠀⠀Skills⠀⠀</code>  </div>
