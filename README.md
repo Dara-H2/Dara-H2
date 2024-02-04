@@ -32,7 +32,7 @@
   </div>
   <br><br><br><br><br><br>
  
-<div <code>⠀⠀💻⠀⠀Skills⠀⠀</code> />
+<div <code>⠀⠀💻⠀⠀Skills⠀⠀</code>  </div>
 
 
 
