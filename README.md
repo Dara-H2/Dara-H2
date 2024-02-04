@@ -59,7 +59,7 @@
 <td align="center">IPFS</td>
 </tr>
 <tr>
-<td colspan="5">Testing Frameworks (Mocha, Chai) | Project Management Tools (Jira, Trello)</td>
+<td colspan="5">Testing on Ethereum Testnets: Sepolia for DApp development</td>
 </tr>
 </tbody>
 </table>
