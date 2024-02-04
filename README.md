@@ -44,19 +44,19 @@
 <thead>
 <tr>
 <th>Solidity</th>
-<th>Go</th>
-<th>Smart Contract Auditing</th>
-<th>Blockchain Architecture</th>
-<th>Decentralized Finance (DeFi)</th>
+<th>Rust</th>
+<th>Truffle/Hardhat</th>
+<th>Chainlink</th>
+<th>IPFS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ethereum Virtual Machine (EVM)</td>
-<td>Unity & Unreal Engine</td>
-<td>Version Control (Git)</td>
+<td>Unity</td>
+<td>C#</td>
+<td>Smart Contract Auditing)</td>
 <td>Cryptography</td>
-<td>APIs for Blockchain</td>
+<td>Game Theory</td>
 </tr>
 <tr>
 <td colspan="5">Testing Frameworks (Mocha, Chai) | Project Management Tools (Jira, Trello)</td>
