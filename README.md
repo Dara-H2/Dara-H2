@@ -53,7 +53,7 @@
 <tbody>
 <tr>
 <td>Ethereum Virtual Machine (EVM)</td>
-<td>Unity </td>
+<td>Unity</td>
 <td>Chainlink</td>
 <td>Cryptography</td>
 <td>IPFS</td>
@@ -65,6 +65,7 @@
 </table>
 
 </div>
+
 
 
 
